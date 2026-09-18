@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Service/" />
+  <Folder Name="/Service/BuildingBlocks/">
+    <Project Path="../src/BuildingBlocks/BuildBlocks/BuildBlocks.csproj" />
+  </Folder>
+  <Folder Name="/Service/Catalog/">
+    <Project Path="../src/service/catalog/Catalog.API/Catalog.API.csproj" />
+  </Folder>
+  <Project Path="Eshop-ecom.AppHost/Eshop-ecom.AppHost.csproj" />
+  <Project Path="Eshop-ecom.ServiceDefaults/Eshop-ecom.ServiceDefaults.csproj" />
+</Solution>
